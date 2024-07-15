@@ -25,4 +25,4 @@ def returnMatches(f: str, myRE: str, n_lines = 1):
 				# for i in range(nlines - 1):
 				# 	print(lines[currentLineMatch+i+1].strip())
 
-returnMatches("/home/punit/tmp/sample.txt", "better than never")
+returnMatches("../var/sample.in", "better than never")
